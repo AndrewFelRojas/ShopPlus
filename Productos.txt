@@ -1,0 +1,15 @@
+1,Mouse inalámbrico,45.99,44
+2,Teclado mecánico,89.5,5
+3,Monitor 24 pulgadas,299.99,3
+4,Auriculares Bluetooth,79.9,8
+5,Webcam HD,59.0,6
+6,Disco SSD 1TB,129.99,4
+7,Cargador USB-C,25.0,12
+8,Impresora multifuncional,199.99,2
+9,Base refrigerante para laptop,39.99,7
+10,Hub USB 4 puertos,22.5,9
+11,Router Wi-Fi doble banda,149.0,3
+12,Tablet 10 pulgadas,349.99,5
+13,Lámpara LED escritorio,18.75,15
+14,Soporte ajustable para monitor,34.9,6
+15,Altavoz portátil,65.0,10

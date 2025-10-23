@@ -1,0 +1,4 @@
+Cliente,Juan Perez,juanperez@gmail.com,clave123
+Administrador,Ana Torres,ana.admin@shopplus.com,admin456
+Proveedor,Carlos Ruiz,carlos.prov@shopplus.com,prov789
+Cliente,Andres Rojas,and9193ro@gmail.com,123456
